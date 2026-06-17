@@ -2,9 +2,13 @@
 A complete end-to-end machine learning pipeline for predicting credit card payment defaults, built as part of a practical skills assignment. The project covers exploratory data analysis, data preparation, model training, evaluation, and interpretability using SHAP.
 
 📁 Repository Structure
+
 ├── Credit_Card (1).csv                        # Dataset (see details below)
+
 ├── Credit card fraud detector (2).ipynb       # Code File Report File
+
 ├── Report File.pdf                            # Report File
+
 └── README.md                                  # This file
 
 ## 📊 Dataset — `Credit_Card.csv`
