@@ -16,9 +16,11 @@ Features	30
 Target variable	default.payment.next.month
 Time period	April – September 2005
 Domain	Credit risk / Financial services
+
 The dataset contains demographic, credit limit, billing, and payment history information for credit card clients. The target variable indicates whether a client defaulted on their payment in the following month (1 = Default, 0 = No Default).
 
 Column Descriptions
+
 #	Column	Type	Description
 1	ID	int	Unique client identifier
 2	LIMIT_BAL	float	Credit limit in New Taiwan dollars. Contains missing values
